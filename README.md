@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-<img src="_static/images/logo.png" alt="MLCD" width=40%>
+<img src="_static/images/mlcd.gif" alt="MLCD" width=100%>
 </p>
 <div>
 
