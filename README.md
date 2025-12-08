@@ -1,7 +1,6 @@
-<p align="center" width="100%">
-<img src="_static/images/mlcd.gif" alt="MLCD" width=100%>
+<p align="center">
+  <img src="_static/images/mlcd.gif" alt="MLCD" style="max-width: 100%; height: auto;">
 </p>
-<div>
 
 
 # UNICOM & MLCD
